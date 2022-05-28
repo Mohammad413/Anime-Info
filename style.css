@@ -1,0 +1,14 @@
+.container-fluid {
+    text-align: center;
+}
+
+#name {
+    width: 200px;
+    margin: 0 auto;
+}
+
+#im {
+    text-align: center;
+    padding: 1rem;
+    justify-content: space-between;
+}
